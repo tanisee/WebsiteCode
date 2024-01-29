@@ -1,0 +1,167 @@
+<!-- CSS code for the first page -->
+
+Read more: https://html.com/tags/comment-tag/#ixzz8QFi5y8Lb
+
+body {
+  background: #efebce;
+  padding: 20px;
+  font-family: "Times New Roman", serif;
+  text-align: center;
+  line-height: 1.5;
+  margin: 47px;
+  color: #283618;
+  overflow: scroll;
+}
+
+h2 {
+  font-size: 35px;
+}
+p {
+  font-size: 20px;
+  margin: 18px;
+}
+
+.sections {
+  border: 5px solid #606f49;
+  padding: 17px;
+  margin-top: 30px;
+}
+
+#banner h1 {
+  font-family: Calibri, serif;
+  font-weight: bold;
+  padding-top: 1px;
+  margin-top: 1px;
+  text-transform: uppercase;
+}
+
+.vacation-link {
+  text-transform: uppercase;
+   color: #283618;
+}
+
+#DYK {
+  border: 4px solid #606f49;
+  font-family: "Century Gothic", serif;
+  max-width: 400px;
+  padding: 8px;
+  margin-left: auto;
+  margin-right: auto;
+}
+ nav {
+  border: 10px solid #606f49;
+  padding: 9px;
+  text-transform: uppercase;
+  background: #97a97c;
+  padding: 5px;
+  display: inline-block;
+}
+
+nav a {
+  color: #dcebca;
+  font-family: "Century Gothic";
+  font-weight: bold;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#about {
+  color: #606f49;
+  margin-bottom: 50px;
+  font-family: "Century Gothic";
+}
+a:hover {
+  color: black;
+}
+
+#intro-image {
+  background-image: url("https://free-images.com/lg/e644/argentina_salta_hills_nature.jpg");
+  background-size: cover;
+  padding: 10px;
+  border: 3px solid #606f49;;
+  background-position: center;
+  height: 300px;
+}
+
+#Culture {
+  margin-top: 50px;
+}
+#introduction {
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 1px;
+}
+
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    font-family: "Century Gothic", serif;
+}
+
+td p {
+  font-size: 18px;
+}
+
+td {
+  border: 2px solid #606f49;
+  padding: 20px;
+}
+
+.culture-images {
+  height: 200px;
+  width: 400px;
+  object-fit: cover;
+
+}
+
+.row-one, .row-three {
+  border-bottom: none;
+}
+
+.row-two, .row-four {
+  border-top: none;
+}
+
+#history-image {
+  max-height: 400px;
+  max-width: 300px;
+  object-fit: cover;
+  border: 3px solid grey;
+}
+h4 {
+  padding: 2px;
+  margin: 2px;
+  font-size: 25px;
+  color: #606f49;
+}
+
+#congress-image {
+  height: 450px;
+  max-width: 750px;
+  min-width:100px;
+  border: 3px solid gray;
+  margin-bottom: 1px;
+}
+aside p {
+  color: #606f49;
+}
+#congress {
+  padding-top: 0px;
+  margin-top: 0px;
+  color: grey;
+  font-family: "Century Gothic";
+  font-size: 15px;
+}
+
+ul li {
+  font-size: 20px;
+  font-family: "Century Gothic", serif;
+  text-align: left;
+}
+
+hr {
+  border: 1px solid #679436;
+}
+
