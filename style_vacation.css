@@ -1,0 +1,205 @@
+body {
+  background: #edf2fb;
+  padding: 25px;
+  font-family: "Calibri", serif;
+  text-align: center;
+  line-height: 1.5;
+  overflow: scroll;
+  color: #003049;
+}
+
+h2 {
+  color: #003049;
+  font-size: 33px;
+  padding-top: 20px
+}
+
+p {
+  font-size: 20px;
+}
+#intro h1 {
+  color: #003049;
+  margin: 1px
+  padding: 5px;
+}
+
+#waterfall-image {
+  background-image: url(https://live.staticflickr.com/65535/48990167902_4eda1d5856_b.jpg);
+  background-size: cover;
+  padding: 10px;
+  border: 3px solid gray;;
+  background-position: center;
+  height: 300px;
+}
+
+
+
+.introduction p {
+  color: #1b263b;
+  font-size: 20px;
+}
+
+
+#nav a {
+  color: #5c677d;
+  display: inline-block;
+  font-family: "Century Gothic";
+  font-weight: bold;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-transform: uppercase;
+}
+
+#nav {
+  border-bottom: 2px solid gray;
+  margin: 1px;
+  padding: 6px;
+  margin-bottom: 10px;
+  border-top: 2px solid gray;
+}
+
+#nav a:hover {
+  color: black;
+}
+
+#airport-table {
+  width: 70%;
+  border: none;
+}
+#airport-table table, #airport-table tr, #airport-table td {
+  border: 0px;
+  text-align: center;
+  padding:30px;
+}
+
+
+#flight-info {
+  width: 200px;
+}
+
+
+.airport-image {
+  height: 150px;
+  width: 300px;
+  object-fit: cover;
+}
+
+.hotel-options {
+  display: inline-block;
+}
+
+.hotel-name {
+  font-weight: bold;
+}
+.hotel-image {
+  border: 3px solid gray;
+  height: 200px;
+  width: 200px;
+  margin-left: 20px;
+  margin-right: 20px;
+  object-fit: cover;
+}
+
+#attractions-list {
+  text-align: left;
+}
+
+.attraction-name {
+  font-family: "Century Gothic", serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.attraction-image {
+  border: 3px solid gray;
+  height: 110px;
+  display: block;
+  width: 200px;
+  margin-bottom: 10px;
+  object-fit: cover;
+}
+
+#attraction-table td {
+  border-left: 0px solid blue
+}
+
+#attraction-table table {
+  border: 0px solid yellow
+}
+
+li {
+ padding: 6px;
+}
+
+ul li {
+  font-size: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 25px;
+    font-size: 20px;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 400px;
+    text-align: left;
+    color: #1f363d;
+    border: 4px solid #16697a;
+}
+
+ thead tr {
+    background-color: #64b5f6;
+    text-align: center;
+    
+}
+
+ th,
+ td {
+    padding: 15px 30px;
+    border-left: 2px solid #16697a;
+    font-family: "Century Gothic", serif;
+}
+
+.row-even {
+  background-color: #f0efeb;
+}
+
+.row-odd {
+background-color: #d6e2e9
+}
+
+ tr {
+  border: 2px solid #16697a;
+}
+
+.index-link {
+  text-transform: uppercase;
+  color: #15616d;
+  background: none;
+  
+}
+
+#forum-image {
+  height: 450px;
+  max-width: 750px;
+  min-width:100px;
+  border: 3px solid gray;
+  margin-bottom: 1px; 
+}
+
+#caption {
+  padding-top: 0px;
+  margin-top: 0px;
+  color: grey;
+  font-family: "Century Gothic";
+  font-size: 15px;
+}
+
+#sources {
+  line-height: 2.3;
+}
+
+hr {
+  border: 1px solid #679436;
+}
